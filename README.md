@@ -1,11 +1,6 @@
 <h1 align="center">
   <a href="https://paymentwithcard.netlify.app/">
-    Payment With Credit Card Implementation
-  </a>
-</h1>
-<h1 align="center">
-  <a href="https://payment-api-ps0k.onrender.com/api/payment">
-    Payment With Credit Card Implementation backend is hosted on rendr.com
+    Payment With Credit Card Implementation Live
   </a>
 </h1>
 
@@ -23,11 +18,11 @@
 
 To get a local copy of the code, clone it using git:
 
-
 ```
 git clone https://github.com/stivex001/payment_form_backend
 
 ```
+
 Install dependencies:
 
 ```
@@ -41,8 +36,6 @@ npm run dev
 ```
 
 And then open http://localhost:8080/ to view it in the browser.
-
-
 
 #### Available Scripts
 
